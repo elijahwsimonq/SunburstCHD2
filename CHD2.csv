@@ -1,0 +1,80 @@
+﻿Disease,Category,Symptom,Type,Prevalence
+CHD2,Communication,Speech impairment,,20%
+CHD2,Communication,Social communication difficulties,,20%
+CHD2,Communication,Prominent language impairment,,20%
+CHD2,Communication,Expressive language differences,,20%
+CHD2,Communication,Receptive language difficulties,,20%
+CHD2,Communication,Delayed language,,71%
+CHD2,Neurological,Epilepsy,Absence seizures,4%
+CHD2,Neurological,Epilepsy,Atypical myoclonic absence seizures,6%
+CHD2,Neurological,Epilepsy,DEE,6%
+CHD2,Neurological,Epilepsy,Dravet syndrome,10%
+CHD2,Neurological,Epilepsy,Eyelid myoclonia with absence seizures,6%
+CHD2,Neurological,Epilepsy,Early-onset absence epilepsy,2%
+CHD2,Neurological,Epilepsy,Febrile seizures,8%
+CHD2,Neurological,Epilepsy,Genetic generalized epilepsy,4%
+CHD2,Neurological,Epilepsy,Generalized tonic-clonic epilepsy,2%
+CHD2,Neurological,Epilepsy,Idiopathic photosensitive occipital epilepsy,4%
+CHD2,Neurological,Epilepsy,Juvenile myoclonic epilepsy,4%
+CHD2,Neurological,Epilepsy,Lennox-Gastaut syndrome,20%
+CHD2,Neurological,Epilepsy,Myoclonic atonic epilepsy,18%
+CHD2,Neurological,Epilepsy,Myoclonic epilepsy,2%
+CHD2,Neurological,Epilepsy,Malignant migrating focal seizures in infancy,2%
+CHD2,Neurological,Epilepsy,West syndrome,2%
+CHD2,Neurological,Epilepsy,Epileptic spasm,3%
+CHD2,Neurological,Epilepsy,Status epilepticus,8%
+CHD2,Neurological,Epilepsy,Atonic seziures,19%
+CHD2,Neurological,Epilepsy,Clonic seziures,3%
+CHD2,Neurological,Epilepsy,Tonic seziures,14%
+CHD2,Neurological,Epilepsy,Generalized tonic seizures,3%
+CHD2,Neurological,Epilepsy,Focal seizures,10%
+CHD2,Neurological,Epilepsy,Focal imparied awareness seizures,2%
+CHD2,Neurological,Epilepsy,Generalized seizures,5%
+CHD2,Neurological,Epilepsy,Generalized myoclonic-absence seizures,5%
+CHD2,Neurological,Epilepsy,Generalized myoclonic-atonic seizures,8%
+CHD2,Neurological,Epilepsy,Generalized myoclonic-atonic absence seizures,5%
+CHD2,Neurological,Epilepsy,Generalized myoclonic-clonic seizures,2%
+CHD2,Neurological,Epilepsy,Generalized tonic-clonic seizures,64%
+CHD2,Neurological,Epilepsy,Jeavons syndrome,2%
+CHD2,Neurological,Epilepsy,Myoclonic–atonic absence seizures,4%
+CHD2,Neurological,Epilepsy,Non-specific epilepsy encephalopathy,18%
+CHD2,Neurological,Epilepsy,Unclassified seizures,32%
+CHD2,Neurological,Autonomic storms,,25%
+CHD2,Neurological,Photo-sensitivity,,55%
+CHD2,Neurological,Fever sensitivities,,27%
+CHD2,Neurological,Abnormal muscle tone,Hypotonia,40%
+CHD2,Neurological,Auditory neuropathy,,10%
+CHD2,Neurological,Circadian rhythm abnormality,,5%
+CHD2,Neurological,Abnormal EEG,,96%
+CHD2,Neurological,Abnormal MRI,,89%
+CHD2,Behavioral,ASD,,41%
+CHD2,Behavioral,Behavior problems,,96%
+CHD2,Behavioral,Behavior problems,,20%
+CHD2,Behavioral,Hyperactivity,,50%
+CHD2,Cognition,Intellectual disability,Severe ID,65%
+CHD2,Cognition,Intellectual disability,Moderate ID,30%
+CHD2,Cognition,Poor judgement,,40%
+CHD2,Cognition,Learning disability,,40%
+CHD2,Cognition,Intellectual regression,,26%
+CHD2,Motor,Motor delay,,71%
+CHD2,Motor,Psychomotor regression,,26%
+CHD2,Sleep,Sleep disturbances,,20%
+CHD2,Musculoskeletal,Growth abnormality,Growth delay,35%
+CHD2,Musculoskeletal,Growth abnormality,Overgrowth,10%
+CHD2,Musculoskeletal,Growth abnormality,Short stature,10%
+CHD2,Musculoskeletal,Growth abnormality,Tall stature,10%
+CHD2,Musculoskeletal,Microcephaly,,35%
+CHD2,Musculoskeletal,Facial dysmorphisms,,60%
+CHD2,Musculoskeletal,Scoliosis,,8%
+CHD2,Musculoskeletal,Abnormal gait,,11%
+CHD2,Musculoskeletal,Ataxia,,11%
+CHD2,Gastrointestinal,Feeding Issues,,10%
+CHD2,Gastrointestinal,Generalized GI issues,,30%
+CHD2,Visual,Visual disability,,10%
+CHD2,Visual,Strabismus,,10%
+CHD2,Emotional,Easily angered,,50%
+CHD2,Emotional,Aggression,,60%
+CHD2,Emotional,Easily excitable,,50%
+CHD2,Other,Failure to thrive,,25%
+CHD2,Other,Underweight,,25%
+CHD2,Other,Obese,,10%
